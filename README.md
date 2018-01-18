@@ -1,2 +1,1 @@
-# Apuntes
-Apuntes clases
+# Readme 
